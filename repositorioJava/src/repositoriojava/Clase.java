@@ -10,5 +10,6 @@ package repositoriojava;
  * @author programador
  */
 public class Clase {
-    
+    public void unMetodo(){
+        System.out.println("Empezando a hacer funcionar el repositorio");}
 }
