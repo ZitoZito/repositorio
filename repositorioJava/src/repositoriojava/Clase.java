@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -17,5 +18,6 @@ public class Clase {
         System.out.println("Eh... todavía no...");
         System.out.println("...");
         System.out.println("Listo!");
+        System.out.print("solo se copiar y pegar");
         }
 }
