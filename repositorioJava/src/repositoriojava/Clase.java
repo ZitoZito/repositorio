@@ -12,5 +12,7 @@ package repositoriojava;
 public class Clase {
     public void unMetodo(){
         System.out.println("Empezando a hacer funcionar el repositorio");
-        System.out.println("Seguimos haciendo desastre en el repositorio");}
+        System.out.println("Seguimos haciendo desastre en el repositorio");
+        System.out.println("Parece que va...");
+        }
 }
